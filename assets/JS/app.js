@@ -13,6 +13,8 @@ const saludo = c + d;
 
 c = 'Hola de nuevo'
 
+alert("Hola santo")
+
 
 
 
